@@ -16,7 +16,7 @@ Hello I am a second year Marshall student majoring in Computer engineering. In m
   - [Quotes](#quotes)
   - [Begining code](#begining-code)
   - [My Github](#my-github)
-  - [Read Me File](#read-me-file)
+  - [My Programing Languages](#my-programing-languages)
 
 
 ## Hobbies
@@ -52,6 +52,6 @@ int main(){
 ## [My Github](https://github.com/aarond67)
 
 
-## Read Me File
-[Read Me](README.md)
+## [My Programing Languages](skills.md)
+
 
