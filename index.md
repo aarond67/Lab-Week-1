@@ -7,19 +7,22 @@ Hello I am a second year Marshall student majoring in Computer engineering. In m
 
 
 ## List of Contents
-[Hobbies](#hobbies)
-[Life Goals](#life-goals)
-[Tasks of the Week](#tasks-of-the-week)
-[Quotes](#quotes)
-[Begining Code](#begining-code)
-[My Github](#my-github)
-[Read Me](#read-me-file)
+- [**Aaron Delgado**](#aaron-delgado)
+  - [About Me](#about-me)
+  - [List of Contents](#list-of-contents)
+  - [Hobbies](#hobbies)
+  - [Life Goals](#life-goals)
+  - [Tasks of the Week](#tasks-of-the-week)
+  - [Quotes](#quotes)
+  - [Begining code](#begining-code)
+  - [My Github](#my-github)
+  - [Read Me File](#read-me-file)
 
 
 ## Hobbies
--Crocheting
--Motorcycle Riding
--Baking
+- Crocheting
+- Motorcycle Riding
+- Baking
 
 ## Life Goals
 1. Travel
